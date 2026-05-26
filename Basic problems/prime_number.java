@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-class prime_number {
+class prime_number{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
         boolean isPrime = true;
         if (num <= 1) {
             isPrime = false;
@@ -20,5 +20,6 @@ class prime_number {
         } else {
             System.out.println(num + " is not prime");
         }
+
     }
 }   
