@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 7 |
-| **Total** | **8** |
+| GFG | 8 |
+| **Total** | **9** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Median of Two Sorted Arrays](Leetcode_Problems/0000_median-of-two-sorted-arrays) | Hard |
+|  | [Reverse Integer](Leetcode_Problems/0000_reverse-integer) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Median of Two Sorted Arrays](Leetcode_Problems/0000_median-of-two-sorted-arrays) |
 | [Two Sum](Leetcode_Problems/0000_two-sum) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Floor in a Sorted Array](GFG/Floor_In_A_Sorted_Array) |
