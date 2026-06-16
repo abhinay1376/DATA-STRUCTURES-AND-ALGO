@@ -7,9 +7,9 @@
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 0 |
+| LeetCode | 1 |
 | GFG | 3 |
-| **Total** | **3** |
+| **Total** | **4** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-| — | No solutions yet | — |
+|  | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) | Medium |
 
 ---
 
