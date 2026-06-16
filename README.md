@@ -7,9 +7,9 @@
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 0 |
+| LeetCode | 1 |
 | GFG | 6 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-| — | No solutions yet | — |
+|  | [Two Sum](Leetcode_Problems/0000_two-sum) | Easy |
 
 ---
 
