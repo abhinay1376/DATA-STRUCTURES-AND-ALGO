@@ -7,9 +7,9 @@
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 0 |
+| LeetCode | 1 |
 | GFG | 11 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-| — | No solutions yet | — |
+|  | [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) | Medium |
 
 ---
 
