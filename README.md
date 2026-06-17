@@ -1,7 +1,5 @@
 # DSA Solutions
 
-> Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 16 June 2026
 
 ## Statistics
 
@@ -20,8 +18,6 @@
 | — | No solutions yet | — |
 
 ---
-
-## GeeksForGeeks
 
 | Problem |
 | ------- |
