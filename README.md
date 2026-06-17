@@ -1,13 +1,15 @@
 # DSA Solutions
 
+> Auto-synced by **DSA Git Pusher** Chrome Extension  
+> Last updated: 17 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 0 |
-| GFG | 10 |
-| **Total** | **10** |
+| GFG | 11 |
+| **Total** | **11** |
 
 ---
 
@@ -19,6 +21,8 @@
 
 ---
 
+## GeeksForGeeks
+
 | Problem |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
@@ -29,5 +33,6 @@
 | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) |
 | [Median of Two Sorted Arrays](Leetcode_Problems/0000_median-of-two-sorted-arrays) |
+| [Number of occurrence](GeeksforGeeks_Problems/Number_Of_Occurrence) |
 | [Reverse Integer](Leetcode_Problems/0000_reverse-integer) |
 | [Two Sum](Leetcode_Problems/0000_two-sum) |
