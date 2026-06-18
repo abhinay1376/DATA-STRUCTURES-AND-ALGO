@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-17T16:29:49.937Z",
+  "lastSync": "2026-06-18T17:16:36.669Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -259,6 +259,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Reverse_Integer",
       "timestamp": 1781713789319
+    },
+    {
+      "platform": "leetcode",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array",
+      "timestamp": 1781802996258
     }
   ]
 }
