@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 12 |
-| **Total** | **13** |
+| GFG | 13 |
+| **Total** | **14** |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Floor in a Sorted Array](GFG/Floor_In_A_Sorted_Array) |
