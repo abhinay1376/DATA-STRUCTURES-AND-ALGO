@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-18T17:18:23.985Z",
+  "lastSync": "2026-06-19T14:32:37.310Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -268,6 +268,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array",
       "timestamp": 1781803103573
+    },
+    {
+      "platform": "leetcode",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array",
+      "timestamp": 1781879556957
     }
   ]
 }
