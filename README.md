@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 18 June 2026
+> Last updated: 19 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 13 |
-| **Total** | **14** |
+| GFG | 14 |
+| **Total** | **15** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) | Easy |
+|  | [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
