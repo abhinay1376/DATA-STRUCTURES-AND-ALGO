@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 14 |
-| **Total** | **15** |
+| GFG | 15 |
+| **Total** | **16** |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
