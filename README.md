@@ -7,9 +7,9 @@
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 1 |
-| GFG | 17 |
-| **Total** | **18** |
+| LeetCode | 0 |
+| GFG | 19 |
+| **Total** | **19** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Find Minimum in Rotated Sorted Array](Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array) | Medium |
+| — | No solutions yet | — |
 
 ---
 
@@ -25,13 +25,9 @@
 
 | Problem |
 | ------- |
-| [Search in Rotated Sorted Array II](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array_Ii) |
-| [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
-| [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
-| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
-| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
-| [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
+| [Find Kth Rotation](GeeksforGeeks_Problems/Find_Kth_Rotation) |
+| [Find Minimum in Rotated Sorted Array](Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array) |
 | [Floor in a Sorted Array](GFG/Floor_In_A_Sorted_Array) |
 | [Floor in a Sorted Array](GeeksforGeeks_Problems/Floor_In_A_Sorted_Array) |
 | [Implement Lower Bound](GeeksforGeeks_Problems/Implement_Lower_Bound) |
@@ -40,5 +36,11 @@
 | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) |
 | [Median of Two Sorted Arrays](Leetcode_Problems/0000_median-of-two-sorted-arrays) |
 | [Number of occurrence](GeeksforGeeks_Problems/Number_Of_Occurrence) |
+| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
+| [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
+| [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
 | [Reverse Integer](Leetcode_Problems/0000_reverse-integer) |
+| [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
+| [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
+| [Search in Rotated Sorted Array II](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array_Ii) |
 | [Two Sum](Leetcode_Problems/0000_two-sum) |
