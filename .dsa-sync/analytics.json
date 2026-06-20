@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-20T16:13:19.171Z",
+  "lastSync": "2026-06-20T16:23:48.815Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -295,6 +295,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array",
       "timestamp": 1781971998558
+    },
+    {
+      "platform": "gfg",
+      "title": "Find Kth Rotation",
+      "slug": "rotation4723",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Find_Kth_Rotation",
+      "timestamp": 1781972628318
     }
   ]
 }
