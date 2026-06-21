@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 20 June 2026
+> Last updated: 21 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 0 |
+| LeetCode | 1 |
 | GFG | 19 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-| — | No solutions yet | — |
+|  | [Hint](Leetcode_Problems/0000_Single_Element_In_A_Sorted_Array) | Medium |
 
 ---
 
