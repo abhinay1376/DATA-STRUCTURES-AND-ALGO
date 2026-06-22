@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-22T13:43:42.594Z",
+  "lastSync": "2026-06-22T14:18:44.858Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -328,7 +328,7 @@
       "slug": "square-root",
       "language": "java",
       "path": "GeeksforGeeks_Problems/Square_Root",
-      "timestamp": 1782135822155
+      "timestamp": 1782137924309
     }
   ]
 }
