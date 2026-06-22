@@ -7,9 +7,9 @@
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 1 |
-| GFG | 20 |
-| **Total** | **21** |
+| LeetCode | 0 |
+| GFG | 22 |
+| **Total** | **22** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Find Peak Element](Leetcode_Problems/0000_Find_Peak_Element) | Medium |
+| — | No solutions yet | — |
 
 ---
 
@@ -25,12 +25,13 @@
 
 | Problem |
 | ------- |
-| [Hint](Leetcode_Problems/0000_Single_Element_In_A_Sorted_Array) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Find Kth Rotation](GeeksforGeeks_Problems/Find_Kth_Rotation) |
 | [Find Minimum in Rotated Sorted Array](Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array) |
+| [Find Peak Element](Leetcode_Problems/0000_Find_Peak_Element) |
 | [Floor in a Sorted Array](GFG/Floor_In_A_Sorted_Array) |
 | [Floor in a Sorted Array](GeeksforGeeks_Problems/Floor_In_A_Sorted_Array) |
+| [Hint](Leetcode_Problems/0000_Single_Element_In_A_Sorted_Array) |
 | [Implement Lower Bound](GeeksforGeeks_Problems/Implement_Lower_Bound) |
 | [Implement Upper Bound](GeeksforGeeks_Problems/Implement_Upper_Bound) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) |
@@ -44,4 +45,5 @@
 | [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
 | [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
 | [Search in Rotated Sorted Array II](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array_Ii) |
+| [Square Root](GeeksforGeeks_Problems/Square_Root) |
 | [Two Sum](Leetcode_Problems/0000_two-sum) |
