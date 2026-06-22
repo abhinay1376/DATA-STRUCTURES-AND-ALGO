@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-22T14:45:22.137Z",
+  "lastSync": "2026-06-22T15:35:22.923Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -329,6 +329,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Square_Root",
       "timestamp": 1782139521458
+    },
+    {
+      "platform": "gfg",
+      "title": "Find nth root of m",
+      "slug": "find-nth-root-of-m5843",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Find_Nth_Root_Of_M",
+      "timestamp": 1782142522283
     }
   ]
 }
