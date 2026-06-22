@@ -1,15 +1,19 @@
 class Solution {
     int floorSqrt(int n) {
-        int i=1;
+        int left=1;
+        int right=n;
         int ans=1;
-      while(i<n){
-         
-          if(i*i>n)
-          break;
-          ans=i;
-          i++;
-
-         
+      while(left<=right){
+          int mid=(right+left)/2;
+          if(mid*mid==n)
+          return mid;
+          else if(mid*mid>n)
+          right=mid-1;
+          else 
+          {
+              ans=mid;
+           left=mid+1; 
+          }
       }
       return ans;
     }
