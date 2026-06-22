@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 0 |
-| GFG | 22 |
-| **Total** | **22** |
+| GFG | 23 |
+| **Total** | **23** |
 
 ---
 
@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Find Kth Rotation](GeeksforGeeks_Problems/Find_Kth_Rotation) |
 | [Find Minimum in Rotated Sorted Array](Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array) |
+| [Find nth root of m](GeeksforGeeks_Problems/Find_Nth_Root_Of_M) |
 | [Find Peak Element](Leetcode_Problems/0000_Find_Peak_Element) |
 | [Floor in a Sorted Array](GFG/Floor_In_A_Sorted_Array) |
 | [Floor in a Sorted Array](GeeksforGeeks_Problems/Floor_In_A_Sorted_Array) |
