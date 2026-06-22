@@ -1,8 +1,16 @@
 class Solution {
     int floorSqrt(int n) {
-        double ans1=Math.sqrt(n);
-        int ans=(int)ans1;
-        return ans;// code here
-        
+        int i=1;
+        int ans=1;
+      while(i<n){
+         
+          if(i*i>n)
+          break;
+          ans=i;
+          i++;
+
+         
+      }
+      return ans;
     }
 }
