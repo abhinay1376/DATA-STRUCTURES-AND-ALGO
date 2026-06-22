@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-22T12:34:13.769Z",
+  "lastSync": "2026-06-22T13:43:42.594Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -321,6 +321,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Find_Peak_Element",
       "timestamp": 1782131653331
+    },
+    {
+      "platform": "gfg",
+      "title": "Square Root",
+      "slug": "square-root",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Square_Root",
+      "timestamp": 1782135822155
     }
   ]
 }
