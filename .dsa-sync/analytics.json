@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-23T15:59:39.953Z",
+  "lastSync": "2026-06-23T16:11:07.464Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -345,6 +345,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Reverse_A_String",
       "timestamp": 1782230378723
+    },
+    {
+      "platform": "gfg",
+      "title": "Palindrome String",
+      "slug": "palindrome-string0817",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Palindrome_String",
+      "timestamp": 1782231066442
     }
   ]
 }
