@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 22 June 2026
+> Last updated: 23 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 0 |
-| GFG | 23 |
-| **Total** | **23** |
+| GFG | 24 |
+| **Total** | **24** |
 
 ---
 
@@ -41,6 +41,7 @@
 | [Number of occurrence](GeeksforGeeks_Problems/Number_Of_Occurrence) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
+| [Reverse a String](GeeksforGeeks_Problems/Reverse_A_String) |
 | [Reverse Integer](Leetcode_Problems/0000_Reverse_Integer) |
 | [Reverse Integer](Leetcode_Problems/0000_reverse-integer) |
 | [Search in Rotated Sorted Array](Leetcode_Problems/0000_Search_In_Rotated_Sorted_Array) |
