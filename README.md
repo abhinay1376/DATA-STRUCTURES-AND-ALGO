@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 0 |
-| GFG | 24 |
-| **Total** | **24** |
+| GFG | 25 |
+| **Total** | **25** |
 
 ---
 
@@ -39,6 +39,7 @@
 | [Koko Eating Bananas](Leetcode_Problems/0000_koko-eating-bananas) |
 | [Median of Two Sorted Arrays](Leetcode_Problems/0000_median-of-two-sorted-arrays) |
 | [Number of occurrence](GeeksforGeeks_Problems/Number_Of_Occurrence) |
+| [Palindrome String](GeeksforGeeks_Problems/Palindrome_String) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Remove Duplicates from Sorted Array](Leetcode_Problems/0000_Remove_Duplicates_From_Sorted_Array) |
 | [Reverse a String](GeeksforGeeks_Problems/Reverse_A_String) |
