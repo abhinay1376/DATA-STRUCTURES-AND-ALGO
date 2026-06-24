@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 23 June 2026
+> Last updated: 24 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
-| LeetCode | 0 |
+| LeetCode | 1 |
 | GFG | 25 |
-| **Total** | **25** |
+| **Total** | **26** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-| — | No solutions yet | — |
+|  | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) | Medium |
 
 ---
 
