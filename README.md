@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 24 June 2026
+> Last updated: 25 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 25 |
-| **Total** | **26** |
+| GFG | 26 |
+| **Total** | **27** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) | Medium |
+|  | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Find Kth Rotation](GeeksforGeeks_Problems/Find_Kth_Rotation) |
 | [Find Minimum in Rotated Sorted Array](Leetcode_Problems/0000_Find_Minimum_In_Rotated_Sorted_Array) |
