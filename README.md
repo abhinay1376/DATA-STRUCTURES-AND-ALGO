@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 26 |
-| **Total** | **27** |
+| GFG | 27 |
+| **Total** | **28** |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
 | [Find Kth Rotation](GeeksforGeeks_Problems/Find_Kth_Rotation) |
