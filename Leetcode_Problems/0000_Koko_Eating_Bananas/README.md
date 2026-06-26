@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Medium  
 **Problem Link:** [View Problem](https://leetcode.com/problems/koko-eating-bananas/)  
-**Submission Date:** 24 Jun 2026  
+**Submission Date:** 26 Jun 2026  
 **Language:** java  
 
 ## Approach
