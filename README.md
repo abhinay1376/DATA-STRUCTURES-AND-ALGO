@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 28 |
-| **Total** | **29** |
+| GFG | 29 |
+| **Total** | **30** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) | Medium |
+|  | [Find the Smallest Divisor Given a Threshold](Leetcode_Problems/0000_Find_The_Smallest_Divisor_Given_A_Threshold) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
 | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
