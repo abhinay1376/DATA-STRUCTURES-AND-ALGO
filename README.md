@@ -8,8 +8,8 @@
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 29 |
-| **Total** | **30** |
+| GFG | 30 |
+| **Total** | **31** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Find the Smallest Divisor Given a Threshold](Leetcode_Problems/0000_Find_The_Smallest_Divisor_Given_A_Threshold) | Medium |
+|  | [Capacity To Ship Packages Within D Days](Leetcode_Problems/0000_Capacity_To_Ship_Packages_Within_D_Days) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Find the Smallest Divisor Given a Threshold](Leetcode_Problems/0000_Find_The_Smallest_Divisor_Given_A_Threshold) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
 | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
