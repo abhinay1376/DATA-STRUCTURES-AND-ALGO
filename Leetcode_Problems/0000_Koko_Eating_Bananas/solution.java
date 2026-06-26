@@ -1,26 +1,32 @@
 1class Solution {
-2    public int minEatingSpeed(int[] piles, int h) {
-3        int low=1;
-4        int high=Integer.MIN_VALUE;
-5        for(int i=0;i<piles.length;i++){
-6            high=Math.max(piles[i],high);
-7        }
-8        while(low<=high){
-9            int mid=low+(high-low)/2;
-10            int ans=cal(mid,piles);
-11            if(ans<=h){
-12                high=mid-1;
-13            }else{
-14                low=mid+1;
-15            }
-16        }
-17        return low;
-18    }
-19    public static int cal(int mid,int[] piles){
-20        int total=0;
-21        for(int i=0;i<piles.length;i++){
-22            total+=Math.ceil((double)piles[i]/mid);
-23        }
-24        return total;
-25    }
-26}
+2    public int minEatingSpeed(int[] nums, int h) {
+3        int max=Integer.MIN_VALUE;
+4        for(int i=0;i<nums.length;i++){
+5            max=Math.max(max,nums[i]);
+6        }
+7        int ans1=-1;
+8        int ans=0;
+9        int left=1;
+10        int right=max;
+11        int mid=0;
+12        while(left<=right){
+13            mid=(right+left)/2;
+14            ans1=speed(nums,mid,h);
+15            if(ans1<=h){
+16            ans=mid;
+17            right=mid-1;
+18            }
+19            else if(ans1>h)
+20            left=mid+1;
+21           
+22        }
+23        return ans;
+24    }
+25    public static int speed(int[] nums,int mid,int h){
+26        int sp=0;
+27        for(int i=0;i<nums.length;i++){
+28          sp+=Math.ceil((double)nums[i]/(double)mid);
+29        }
+30        return sp;
+31    }
+32}
