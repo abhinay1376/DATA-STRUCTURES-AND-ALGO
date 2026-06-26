@@ -1,15 +1,15 @@
 # DSA Solutions
 
 > Auto-synced by **DSA Git Pusher** Chrome Extension  
-> Last updated: 25 June 2026
+> Last updated: 26 June 2026
 
 ## Statistics
 
 | Platform | Solved |
 | -------- | ------ |
 | LeetCode | 1 |
-| GFG | 27 |
-| **Total** | **28** |
+| GFG | 28 |
+| **Total** | **29** |
 
 ---
 
@@ -17,7 +17,7 @@
 
 | # | Problem | Difficulty |
 | - | ------- | ---------- |
-|  | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) | Medium |
+|  | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) | Medium |
 
 ---
 
@@ -25,6 +25,7 @@
 
 | Problem |
 | ------- |
+| [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Minimum Number of Days to Make m Bouquets](Leetcode_Problems/0000_Minimum_Number_Of_Days_To_Make_M_Bouquets) |
 | [Koko Eating Bananas](Leetcode_Problems/0000_Koko_Eating_Bananas) |
 | [0485-max-consecutive-ones](https://github.com/abhinay1376/DATA-STRUCTURES-AND-ALGO/tree/master/0485-max-consecutive-ones) |
