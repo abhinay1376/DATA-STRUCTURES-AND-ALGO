@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-27T12:53:33.169Z",
+  "lastSync": "2026-06-28T08:36:45.552Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -398,6 +398,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Kth_Missing_Positive_Number",
       "timestamp": 1782564813161
+    },
+    {
+      "platform": "gfg",
+      "title": "Aggressive Cows",
+      "slug": "aggressive-cows",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Aggressive_Cows",
+      "timestamp": 1782635805541
     }
   ]
 }
