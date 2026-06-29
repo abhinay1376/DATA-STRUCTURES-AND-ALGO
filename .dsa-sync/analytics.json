@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-28T08:40:21.018Z",
+  "lastSync": "2026-06-29T13:56:35.191Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -406,6 +406,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Aggressive_Cows",
       "timestamp": 1782636021011
+    },
+    {
+      "platform": "leetcode",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Pascals_Triangle",
+      "timestamp": 1782741395181
     }
   ]
 }
