@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-30T13:56:23.017Z",
+  "lastSync": "2026-06-30T14:07:09.981Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -432,6 +432,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Split_Array_Largest_Sum",
       "timestamp": 1782827783010
+    },
+    {
+      "platform": "gfg",
+      "title": "The Painter's Partition Problem-II",
+      "slug": "the-painters-partition-problem1535",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/The_Painter_s_Partition_Problem_II",
+      "timestamp": 1782828429974
     }
   ]
 }
