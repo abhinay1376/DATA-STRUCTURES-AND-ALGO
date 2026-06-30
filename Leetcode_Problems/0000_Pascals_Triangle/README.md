@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/pascals-triangle/)  
-**Submission Date:** 29 Jun 2026  
+**Submission Date:** 30 Jun 2026  
 **Language:** java  
 
 ## Approach
