@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-06-30T14:33:54.477Z",
+  "lastSync": "2026-07-01T15:25:15.614Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -440,6 +440,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/The_Painter_s_Partition_Problem_II",
       "timestamp": 1782828429974
+    },
+    {
+      "platform": "leetcode",
+      "title": "How does the submission work",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Two_Sum_Ii_Input_Array_Is_Sorted",
+      "timestamp": 1782919515599
     }
   ]
 }
