@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-02T15:46:45.531Z",
+  "lastSync": "2026-07-03T16:38:51.527Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -467,6 +467,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Trapping_Rain_Water",
       "timestamp": 1783007205519
+    },
+    {
+      "platform": "leetcode",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Search_A_2d_Matrix",
+      "timestamp": 1783096731514
     }
   ]
 }
