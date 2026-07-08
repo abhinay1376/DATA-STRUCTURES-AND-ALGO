@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
-**Submission Date:** 18 Jun 2026  
+**Submission Date:** 8 Jul 2026  
 **Language:** java  
 
 ## Approach
