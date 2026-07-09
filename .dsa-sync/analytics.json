@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-09T05:23:17.382Z",
+  "lastSync": "2026-07-09T15:43:57.144Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -511,6 +511,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Count_Digits_In_A_Number",
       "timestamp": 1783574597356
+    },
+    {
+      "platform": "leetcode",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Rotate_Array",
+      "timestamp": 1783611837137
     }
   ]
 }
