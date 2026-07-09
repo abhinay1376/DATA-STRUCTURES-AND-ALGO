@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-09T15:43:57.144Z",
+  "lastSync": "2026-07-09T15:46:10.775Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -519,6 +519,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Rotate_Array",
       "timestamp": 1783611837137
+    },
+    {
+      "platform": "gfg",
+      "title": "Rotate Array by One",
+      "slug": "cyclically-rotate-an-array-by-one2614",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Rotate_Array_By_One",
+      "timestamp": 1783611970768
     }
   ]
 }
