@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-09T15:46:10.775Z",
+  "lastSync": "2026-07-10T14:43:03.359Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -527,6 +527,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Rotate_Array_By_One",
       "timestamp": 1783611970768
+    },
+    {
+      "platform": "leetcode",
+      "title": "Comprehensive Next Permutation Intuition(w/Algo) Explanation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0000_Next_Permutation",
+      "timestamp": 1783694583350
     }
   ]
 }
