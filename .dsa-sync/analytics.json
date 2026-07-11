@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-10T16:19:55.270Z",
+  "lastSync": "2026-07-11T05:35:06.666Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -545,6 +545,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Missing_Number",
       "timestamp": 1783700395264
+    },
+    {
+      "platform": "gfg",
+      "title": "Array Leaders",
+      "slug": "leaders-in-an-array-1587115620",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Array_Leaders",
+      "timestamp": 1783748106657
     }
   ]
 }
