@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-11T05:35:06.666Z",
+  "lastSync": "2026-07-11T06:14:23.388Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -553,6 +553,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Array_Leaders",
       "timestamp": 1783748106657
+    },
+    {
+      "platform": "gfg",
+      "title": "Longest Consecutive Subsequence",
+      "slug": "longest-consecutive-subsequence2449",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Longest_Consecutive_Subsequence",
+      "timestamp": 1783750463380
     }
   ]
 }
