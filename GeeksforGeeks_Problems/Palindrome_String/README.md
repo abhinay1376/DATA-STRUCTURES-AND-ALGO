@@ -2,7 +2,7 @@
 
 **Platform:** GeeksForGeeks  
 **Problem Link:** [View Problem](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)  
-**Submission Date:** 23 Jun 2026  
+**Submission Date:** 12 Jul 2026  
 **Language:** java  
 
 ## Approach
