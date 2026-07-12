@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-12T12:11:46.137Z",
+  "lastSync": "2026-07-12T12:59:35.798Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -586,6 +586,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Valid_Palindrome",
       "timestamp": 1783858306129
+    },
+    {
+      "platform": "gfg",
+      "title": "Non Repeating Character",
+      "slug": "non-repeating-character-1587115620",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Non_Repeating_Character",
+      "timestamp": 1783861175789
     }
   ]
 }
