@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-12T11:26:42.981Z",
+  "lastSync": "2026-07-12T11:38:30.769Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -569,6 +569,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Check_Consonants_And_Vowels",
       "timestamp": 1783855602972
+    },
+    {
+      "platform": "gfg",
+      "title": "Remove Spaces",
+      "slug": "remove-spaces0128",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Remove_Spaces",
+      "timestamp": 1783856310762
     }
   ]
 }
