@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-12T11:20:16.322Z",
+  "lastSync": "2026-07-12T11:26:42.981Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -561,6 +561,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Longest_Consecutive_Subsequence",
       "timestamp": 1783750463380
+    },
+    {
+      "platform": "gfg",
+      "title": "Check Consonants and Vowels",
+      "slug": "consonants-and-vowels-check-java",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Check_Consonants_And_Vowels",
+      "timestamp": 1783855602972
     }
   ]
 }
