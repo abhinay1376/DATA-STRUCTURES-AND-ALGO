@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-13T14:23:20.994Z",
+  "lastSync": "2026-07-13T14:30:31.872Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -612,6 +612,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Longest_Common_Prefix",
       "timestamp": 1783872264300
+    },
+    {
+      "platform": "gfg",
+      "title": "Armstrong Numbers",
+      "slug": "armstrong-numbers2727",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Armstrong_Numbers",
+      "timestamp": 1783953031863
     }
   ]
 }
