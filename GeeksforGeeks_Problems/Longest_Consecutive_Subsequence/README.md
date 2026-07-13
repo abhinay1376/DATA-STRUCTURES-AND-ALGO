@@ -2,7 +2,7 @@
 
 **Platform:** GeeksForGeeks  
 **Problem Link:** [View Problem](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)  
-**Submission Date:** 11 Jul 2026  
+**Submission Date:** 13 Jul 2026  
 **Language:** java  
 
 ## Approach
