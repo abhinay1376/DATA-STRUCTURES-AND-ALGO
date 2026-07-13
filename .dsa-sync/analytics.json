@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-13T14:30:31.872Z",
+  "lastSync": "2026-07-13T14:39:33.632Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -620,6 +620,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Armstrong_Numbers",
       "timestamp": 1783953031863
+    },
+    {
+      "platform": "gfg",
+      "title": "LCM of two numbers",
+      "slug": "lcm-of-two-numbers",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/LCM_Of_Two_Numbers",
+      "timestamp": 1783953573221
     }
   ]
 }
