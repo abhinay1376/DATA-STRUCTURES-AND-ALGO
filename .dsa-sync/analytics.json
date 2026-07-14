@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-14T15:12:52.565Z",
+  "lastSync": "2026-07-14T15:14:55.030Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -628,6 +628,14 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/LCM_Of_Two_Numbers",
       "timestamp": 1783953573221
+    },
+    {
+      "platform": "gfg",
+      "title": "Anagram",
+      "slug": "anagram-1587115620",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Anagram",
+      "timestamp": 1784042095017
     }
   ]
 }
