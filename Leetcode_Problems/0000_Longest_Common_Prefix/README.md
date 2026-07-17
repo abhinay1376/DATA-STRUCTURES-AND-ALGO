@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/longest-common-prefix/)  
-**Submission Date:** 12 Jul 2026  
+**Submission Date:** 17 Jul 2026  
 **Language:** java  
 
 ## Approach
