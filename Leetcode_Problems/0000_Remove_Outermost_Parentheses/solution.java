@@ -1,15 +1,23 @@
 1class Solution {
-2public String removeOuterParentheses(String S) {
-3    StringBuilder s = new StringBuilder();
-4    int opened = 0;
-5    for (char c : S.toCharArray()) {
-6        if (c == '(' && opened++ > 0) {
-7            s.append(c);
-8        }
-9        if (c == ')' && opened-- > 1) {
-10            s.append(c);
-11        }
-12    }
-13    return s.toString();
-14}
-15}
+2    public String removeOuterParentheses(String s) {
+3        StringBuilder sb=new StringBuilder();
+4        int depth=0;
+5        for(int i=0;i<s.length();i++){
+6            char ch=s.charAt(i);
+7            if(ch=='('){
+8                if(depth>0)
+9                sb.append('(');
+10                depth++;
+11            }
+12            else{
+13                depth--;
+14                if(depth>0){
+15                    sb.append(')');
+16                }
+17        }
+18        }
+19                return sb.toString();
+20
+21        }
+22    }
+23
