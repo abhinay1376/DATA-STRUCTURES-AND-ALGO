@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-18T13:14:15.784Z",
+  "lastSync": "2026-07-18T15:12:21.778Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -663,6 +663,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0000_Fibonacci_Number",
       "timestamp": 1784380455776
+    },
+    {
+      "platform": "gfg",
+      "title": "Tribonacci Number\nSolved",
+      "slug": "tribonacci-number",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Tribonacci_Number_Solved",
+      "timestamp": 1784387541770
     }
   ]
 }
