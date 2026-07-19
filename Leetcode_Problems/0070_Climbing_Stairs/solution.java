@@ -1,3 +1,47 @@
+/*
+Problem Revision Notes
+
+Problem:    Climbing Stairs
+Platform:   LeetCode
+Difficulty: Easy
+Date:       2026-07-19
+
+──────────────────────────────────────────────────
+
+Intuition
+its dp tabulation done after the memoization
+
+──────────────────────────────────────────────────
+
+Lines / Logic To Be Careful With
+checking the base condition in main function
+
+──────────────────────────────────────────────────
+
+Edge Cases Handled
+base condition will handle the edge cases
+
+──────────────────────────────────────────────────
+
+Mistakes I Made
+used n variable in the dp  for loop instead of the i variable
+
+──────────────────────────────────────────────────
+
+Future Reminder
+storing the all the values in  a dp array and just returning them
+
+──────────────────────────────────────────────────
+
+Time Complexity
+O(n)
+
+Space Complexity
+O(n)
+
+══════════════════════════════════════════════════
+*/
+
 1class Solution {
 2    public int climbStairs(int n) {
 3        if(n<=1) return 1;
