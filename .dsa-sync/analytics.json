@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-18T15:17:45.679Z",
+  "lastSync": "2026-07-19T06:12:12.082Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -679,6 +679,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Tribonacci_Number",
       "timestamp": 1784387865671
+    },
+    {
+      "platform": "leetcode",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0070_Climbing_Stairs",
+      "timestamp": 1784441532074
     }
   ]
 }
