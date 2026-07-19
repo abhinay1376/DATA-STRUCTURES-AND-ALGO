@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-19T06:26:18.105Z",
+  "lastSync": "2026-07-19T06:47:31.557Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -688,6 +688,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0070_Climbing_Stairs",
       "timestamp": 1784442378100
+    },
+    {
+      "platform": "gfg",
+      "title": "Ways to Reach the n'th Stair",
+      "slug": "count-ways-to-reach-the-nth-stair-1587115620",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Ways_To_Reach_The_N_th_Stair",
+      "timestamp": 1784443651549
     }
   ]
 }
