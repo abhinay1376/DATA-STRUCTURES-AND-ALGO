@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-20T14:30:30.842Z",
+  "lastSync": "2026-07-21T15:36:27.885Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -714,6 +714,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0205_Isomorphic_Strings",
       "timestamp": 1784557830833
+    },
+    {
+      "platform": "leetcode",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0796_Rotate_String",
+      "timestamp": 1784648187878
     }
   ]
 }
