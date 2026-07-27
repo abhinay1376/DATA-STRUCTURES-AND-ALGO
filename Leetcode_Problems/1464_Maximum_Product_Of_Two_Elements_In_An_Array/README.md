@@ -21,28 +21,28 @@
 The answer depends only on the two largest numbers in the array. Instead of sorting, keep track of the largest and second-largest values while traversing the array once. Whenever a new maximum is found, shift the old maximum to second maximum.
 
 ### Lines / Logic To Be Careful With
-intialising the max with 0
+initialsing the max variables carefully
 
 ### Edge Cases Handled
-this works only for positive numbers
+this works only for the positive numbers without duplicates
 
 ## Solution
 
 ```java
 class Solution {
     public int maxProduct(int[] nums) {
-        int max=0;
-        int max1=0;
+        int max=Integer.MIN_VALUE;
+        int max1=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]>nums[max]){
+            if(nums[i]>max){
                 max1=max;
-                max=i;
+                max=nums[i];
             }
-            else if(nums[i]>nums[max1]){
-                max1=i;
+            else if(nums[i]>max1){
+                max1=nums[i];
             }
         }
-        return (nums[max]-1)*(nums[max1]-1);
+        return (max-1)*(max1-1);
     }
 }
 ```
