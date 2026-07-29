@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-07-28T17:12:16.061Z",
+  "lastSync": "2026-07-29T10:22:07.066Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -804,6 +804,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1528_Shuffle_String",
       "timestamp": 1785258736053
+    },
+    {
+      "platform": "leetcode",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0005_Longest_Palindromic_Substring",
+      "timestamp": 1785320527053
     }
   ]
 }
