@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-01T16:30:19.202Z",
+  "lastSync": "2026-08-02T19:30:28.729Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -839,6 +839,15 @@
       "language": "java",
       "path": "Leetcode_Problems/4006_Count_Valid_Prefixes",
       "timestamp": 1785601819193
+    },
+    {
+      "platform": "leetcode",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0283_Move_Zeroes",
+      "timestamp": 1785699028722
     }
   ]
 }
