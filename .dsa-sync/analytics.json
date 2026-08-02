@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-02T19:30:28.729Z",
+  "lastSync": "2026-08-02T19:34:25.404Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -848,6 +848,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0283_Move_Zeroes",
       "timestamp": 1785699028722
+    },
+    {
+      "platform": "leetcode",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0008_String_To_Integer_Atoi",
+      "timestamp": 1785699265396
     }
   ]
 }
