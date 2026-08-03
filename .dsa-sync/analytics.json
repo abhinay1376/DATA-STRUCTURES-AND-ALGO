@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-02T19:34:25.404Z",
+  "lastSync": "2026-08-03T16:25:42.812Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -857,6 +857,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0008_String_To_Integer_Atoi",
       "timestamp": 1785699265396
+    },
+    {
+      "platform": "leetcode",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0237_Delete_Node_In_A_Linked_List",
+      "timestamp": 1785774342803
     }
   ]
 }
