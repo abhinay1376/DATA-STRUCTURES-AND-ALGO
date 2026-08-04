@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-03T16:25:42.812Z",
+  "lastSync": "2026-08-04T17:24:35.818Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -866,6 +866,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0237_Delete_Node_In_A_Linked_List",
       "timestamp": 1785774342803
+    },
+    {
+      "platform": "leetcode",
+      "title": "Find Missing Elements (LeetCode 3731) — Benchmark Report",
+      "slug": "find-missing-elements",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/3731_Find_Missing_Elements",
+      "timestamp": 1785864275811
     }
   ]
 }
