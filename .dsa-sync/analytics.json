@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-07T09:59:38.948Z",
+  "lastSync": "2026-08-07T10:16:46.852Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -902,6 +902,14 @@
       "language": "java",
       "path": "Leetcode_Problems/2235_Add_Two_Integers",
       "timestamp": 1786096778941
+    },
+    {
+      "platform": "gfg",
+      "title": "Sum Of Digits",
+      "slug": "sum-of-digits1742",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Sum_Of_Digits",
+      "timestamp": 1786097806846
     }
   ]
 }
