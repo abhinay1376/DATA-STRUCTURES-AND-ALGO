@@ -18,31 +18,33 @@
 ## Revision Notes
 
 ### Intuition
-reversing the given number
+reverse all the digits
 
 ### Lines / Logic To Be Careful With
 if(rev>Integer.MAX_VALUE||rev<Integer.MIN_VALUE){
             return 0;
+            }
 
 ### Edge Cases Handled
-integer maximum and integer minimum value are handled
+long usage and type casting error
 
 ## Solution
 
 ```java
 class Solution {
     public int reverse(int x) {
-        int rev=0;
+        long rev=0;
         while(x!=0){
             int digit=x%10;
-            if(rev>Integer.MAX_VALUE||rev<Integer.MIN_VALUE){
-            return 0;
-            }
+        
        
             rev=rev*10+digit;
             x/=10;
-        }
-        return rev;
+        }    if(rev>Integer.MAX_VALUE||rev<Integer.MIN_VALUE){
+            return 0;
+            }
+
+        return (int)rev;
     }
 }
 ```
