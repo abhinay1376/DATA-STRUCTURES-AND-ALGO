@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-06T15:32:48.717Z",
+  "lastSync": "2026-08-07T09:59:38.948Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -893,6 +893,15 @@
       "language": "java",
       "path": "Leetcode_Problems/3345_Smallest_Divisible_Digit_Product_I",
       "timestamp": 1786030368710
+    },
+    {
+      "platform": "leetcode",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/2235_Add_Two_Integers",
+      "timestamp": 1786096778941
     }
   ]
 }
