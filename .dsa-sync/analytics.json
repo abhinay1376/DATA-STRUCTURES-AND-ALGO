@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-07T10:16:46.852Z",
+  "lastSync": "2026-08-07T10:44:03.612Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -910,6 +910,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Sum_Of_Digits",
       "timestamp": 1786097806846
+    },
+    {
+      "platform": "leetcode",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0007_Reverse_Integer",
+      "timestamp": 1786099443603
     }
   ]
 }
