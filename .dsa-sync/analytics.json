@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-09T11:59:28.218Z",
+  "lastSync": "2026-08-10T16:39:11.367Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -945,6 +945,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String",
       "timestamp": 1786276768211
+    },
+    {
+      "platform": "leetcode",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0485_Max_Consecutive_Ones",
+      "timestamp": 1786379951359
     }
   ]
 }
