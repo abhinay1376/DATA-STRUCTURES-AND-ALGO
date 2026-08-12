@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-11T16:34:12.424Z",
+  "lastSync": "2026-08-12T06:47:05.055Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -963,6 +963,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1752_Check_If_Array_Is_Sorted_And_Rotated",
       "timestamp": 1786466052417
+    },
+    {
+      "platform": "leetcode",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0026_Remove_Duplicates_From_Sorted_Array",
+      "timestamp": 1786517225046
     }
   ]
 }
