@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-12T06:47:05.055Z",
+  "lastSync": "2026-08-13T05:17:08.933Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -972,6 +972,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0026_Remove_Duplicates_From_Sorted_Array",
       "timestamp": 1786517225046
+    },
+    {
+      "platform": "leetcode",
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0136_Single_Number",
+      "timestamp": 1786598228918
     }
   ]
 }
