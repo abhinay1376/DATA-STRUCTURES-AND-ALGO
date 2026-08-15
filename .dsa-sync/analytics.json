@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-13T05:17:08.933Z",
+  "lastSync": "2026-08-15T17:24:29.816Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -981,6 +981,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0136_Single_Number",
       "timestamp": 1786598228918
+    },
+    {
+      "platform": "leetcode",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0001_Two_Sum",
+      "timestamp": 1786814669808
     }
   ]
 }
