@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-19T17:32:34.539Z",
+  "lastSync": "2026-08-20T17:26:21.359Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1008,6 +1008,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0202_Happy_Number",
       "timestamp": 1787160754525
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0053_Maximum_Subarray",
+      "timestamp": 1787246781351
     }
   ]
 }
