@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-23T12:45:53.940Z",
+  "lastSync": "2026-08-24T16:33:55.179Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1035,6 +1035,15 @@
       "language": "java",
       "path": "Leetcode_Problems/2088_Find_Target_Indices_After_Sorting_Array",
       "timestamp": 1787489153933
+    },
+    {
+      "platform": "leetcode",
+      "title": "M[i,j] --> M'[j,N-1-i]",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0048_Rotate_Image",
+      "timestamp": 1787589235170
     }
   ]
 }
