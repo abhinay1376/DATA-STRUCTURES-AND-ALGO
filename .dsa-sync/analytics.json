@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-24T16:33:55.179Z",
+  "lastSync": "2026-08-25T10:16:10.790Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1044,6 +1044,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0048_Rotate_Image",
       "timestamp": 1787589235170
+    },
+    {
+      "platform": "leetcode",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0121_Best_Time_To_Buy_And_Sell_Stock",
+      "timestamp": 1787652970783
     }
   ]
 }
