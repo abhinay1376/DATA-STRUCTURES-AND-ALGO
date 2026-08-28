@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-27T09:03:53.102Z",
+  "lastSync": "2026-08-28T17:01:44.341Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1071,6 +1071,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0590_Longest_Harmonious_Subsequence",
       "timestamp": 1787821433086
+    },
+    {
+      "platform": "leetcode",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/3734_Maximum_Length_Substring_With_Two_Occurrences",
+      "timestamp": 1787936504327
     }
   ]
 }
