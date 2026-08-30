@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-30T11:13:42.848Z",
+  "lastSync": "2026-08-30T11:26:14.871Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1098,6 +1098,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0876_Middle_Of_The_Linked_List",
       "timestamp": 1788086557315
+    },
+    {
+      "platform": "leetcode",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0141_Linked_List_Cycle",
+      "timestamp": 1788089174864
     }
   ]
 }
