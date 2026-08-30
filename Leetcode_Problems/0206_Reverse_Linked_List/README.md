@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/reverse-linked-list/)  
-**Submission Date:** 5 Aug 2026  
+**Submission Date:** 30 Aug 2026  
 **Language:** java  
 
 ## Approach
@@ -13,32 +13,28 @@
 ## Time & Space Complexity
 
 **Time Complexity:** O(n)  
-**Space Complexity:** O(1)  
+**Space Complexity:** O(n)  
 
 ## Revision Notes
 
 ### Intuition
-Think of the linked list as a chain of arrows:
-
-1 → 2 → 3 → 4 → 5
-
-Our goal is to make every arrow point backward:
-
-1 ← 2 ← 3 ← 4 ← 5
-
-At every step:
-
-Save the next node (next) so you don't lose the rest of the list.
-Reverse the current node's pointer (curr.next = prev).
-Move prev and curr one step forward.
-
-Repeat until curr becomes null. At that point, prev is the new head.
+we store the linked list in an arraylist and reverse them and creates a new linked list
 
 ### Lines / Logic To Be Careful With
-listnode spelling...............
+}
+        ListNode dummy=new ListNode(-1);
+        ListNode temp1=dummy;
+        for(int i=arr.size()-1;i>=0;i--){
+         ListNode node = new ListNode(arr.get(i));  
+                  temp1.next=node;    
+
+         temp1=temp1.next;   
+
+        }
+        return dummy.next;
 
 ### Edge Cases Handled
-alllllllllllllllllllll
+allllllllllllllllllll
 
 ## Solution
 
@@ -55,17 +51,22 @@ alllllllllllllllllllll
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode next = curr.next; 
-            curr.next = prev;         
-            prev = curr;             
-            curr = next;             
+        List<Integer> arr=new ArrayList<>();
+        ListNode temp=head;
+        while(temp!=null){
+            arr.add(temp.val);
+            temp=temp.next;
         }
+        ListNode dummy=new ListNode(-1);
+        ListNode temp1=dummy;
+        for(int i=arr.size()-1;i>=0;i--){
+         ListNode node = new ListNode(arr.get(i));  
+                  temp1.next=node;    
 
-        return prev;
+         temp1=temp1.next;   
+
+        }
+        return dummy.next;
     }
 }
 ```
