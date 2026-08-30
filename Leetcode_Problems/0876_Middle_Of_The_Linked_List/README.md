@@ -12,24 +12,22 @@
 
 ## Time & Space Complexity
 
-**Time Complexity:** O(n) - but extra loop  
+**Time Complexity:** O(n)  
 **Space Complexity:** O(1)  
 
 ## Revision Notes
 
 ### Intuition
-so counting the linked list length and then to print from the middle and make middle node as head node and returning temp
+think of train A and train B and both have to travel 1000km and A is moving at speed 100 and B at 50kmph so when A reaches 1000km the B will reach 500km which means exact middle
 
 ### Lines / Logic To Be Careful With
-temp=head;
-       count=(count/2)+1;
-       for(int i=1;i<count;i++){
-          temp=temp.next;
-       }
-       return temp;
+while(fast!=null&&fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
+        }
 
 ### Edge Cases Handled
-alllllllllllllllllllllllllll
+the n/2+1 so while condition is different and if we want to print the n/2 onwards for even length list then the while condition may change
 
 ## Solution
 
@@ -47,18 +45,13 @@ alllllllllllllllllllllllllll
 class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode temp=head;
-        int count=0;
-        while(temp!=null){
-            count++;
-            temp=temp.next;
-            
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null&&fast.next!=null){
+            fast=fast.next.next;
+            slow=slow.next;
         }
-       temp=head;
-       count=(count/2)+1;
-       for(int i=1;i<count;i++){
-          temp=temp.next;
-       }
-       return temp;
+       return slow;
     }
 }
 ```
