@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-08-29T10:53:00.034Z",
+  "lastSync": "2026-08-30T10:33:24.367Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1089,6 +1089,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0875_Koko_Eating_Bananas",
       "timestamp": 1788000780023
+    },
+    {
+      "platform": "leetcode",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0876_Middle_Of_The_Linked_List",
+      "timestamp": 1788086004355
     }
   ]
 }
