@@ -13,33 +13,21 @@
 ## Time & Space Complexity
 
 **Time Complexity:** O(n)  
-**Space Complexity:** O(n)  
+**Space Complexity:** O(1)  
 
 ## Revision Notes
 
 ### Intuition
-"Have I encountered this exact node object before?"
-
-That's exactly what a cycle means.
-
-For example:
-
-1 → 2 → 3
-    ↑   |
-    └───┘
-
-When we reach node 2 again:
-
-set.contains(temp)
-
-becomes true.
+Floyd's algorithm
+slow and fast approaches if cycle exist they can reach at somepoint
 
 ### Lines / Logic To Be Careful With
-if(set.contains(temp)) return true;
-            set.add(temp);
+fast=fast.next.next;
+            slow=slow.next;
+              if(fast==slow) return true; because we declare the slow and fast as head so the initial condition can become true so first we have to move them
 
 ### Edge Cases Handled
-we are not storing elements data we are storing the address
+allllllllllllllllllllllllll
 
 ## Solution
 
@@ -57,15 +45,17 @@ we are not storing elements data we are storing the address
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        Set<ListNode> set=new HashSet<>();
-        ListNode temp=head;
-        while(temp!=null){
-            if(set.contains(temp)) return true;
-            set.add(temp);
-            temp=temp.next;
-            
-        }
-        return false;
+         ListNode temp=head;
+         ListNode slow=head;
+         ListNode fast=head;
+         while(fast!=null&&fast.next!=null){
+          
+            fast=fast.next.next;
+            slow=slow.next;
+              if(fast==slow) return true;
+         }
+         return false;
+
     } 
 }
 ```
