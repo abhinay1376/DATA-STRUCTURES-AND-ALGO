@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-02T12:43:57.276Z",
+  "lastSync": "2026-09-02T13:17:28.323Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1160,6 +1160,15 @@
       "language": "java",
       "path": "Leetcode_Problems/2095_Delete_The_Middle_Node_Of_A_Linked_List",
       "timestamp": 1788353037268
+    },
+    {
+      "platform": "leetcode",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0019_Remove_Nth_Node_From_End_Of_List",
+      "timestamp": 1788355048315
     }
   ]
 }
