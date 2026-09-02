@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-02T10:21:21.105Z",
+  "lastSync": "2026-09-02T10:36:50.489Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1125,6 +1125,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0142_Linked_List_Cycle_Ii",
       "timestamp": 1788344481096
+    },
+    {
+      "platform": "gfg",
+      "title": "Cycle Length in Linked List",
+      "slug": "find-length-of-loop",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Cycle_Length_In_Linked_List",
+      "timestamp": 1788345410480
     }
   ]
 }
