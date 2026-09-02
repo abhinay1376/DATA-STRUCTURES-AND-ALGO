@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-02T11:02:25.380Z",
+  "lastSync": "2026-09-02T12:31:54.639Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1142,6 +1142,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0234_Palindrome_Linked_List",
       "timestamp": 1788346945351
+    },
+    {
+      "platform": "leetcode",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0328_Odd_Even_Linked_List",
+      "timestamp": 1788352314631
     }
   ]
 }
