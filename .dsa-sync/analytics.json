@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-02T12:31:54.639Z",
+  "lastSync": "2026-09-02T12:43:57.276Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1151,6 +1151,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0328_Odd_Even_Linked_List",
       "timestamp": 1788352314631
+    },
+    {
+      "platform": "leetcode",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/2095_Delete_The_Middle_Node_Of_A_Linked_List",
+      "timestamp": 1788353037268
     }
   ]
 }
