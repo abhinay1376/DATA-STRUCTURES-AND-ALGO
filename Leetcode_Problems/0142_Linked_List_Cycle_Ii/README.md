@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Medium  
 **Problem Link:** [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/)  
-**Submission Date:** 1 Sept 2026  
+**Submission Date:** 2 Sept 2026  
 **Language:** java  
 
 ## Approach
@@ -13,28 +13,18 @@
 ## Time & Space Complexity
 
 **Time Complexity:** O(n)  
-**Space Complexity:** O(1)  
+**Space Complexity:** O(n)  
 
 ## Revision Notes
 
 ### Intuition
-First meeting tells us a cycle exists.
-Reset slow to head, then move both equally → their next meeting is the cycle start.
+using hashset adding ALL the elements of the LL and if it repeats again that's where  a looop begins so we return it
 
 ### Lines / Logic To Be Careful With
-if(slow==fast){
-              slow=head;
-              while(slow!=fast){
-                slow=slow.next;
-                fast=fast.next;
-           
-              }
-              return slow;
-            }
-        }
+HashSet<ListNode> and temp=temp.next
 
 ### Edge Cases Handled
-"Slow and fast meet, so that's the answer."
+alllllllllllllllllllllllll
 
 ## Solution
 
@@ -52,22 +42,17 @@ if(slow==fast){
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null&&fast.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
-            if(slow==fast){
-              slow=head;
-              while(slow!=fast){
-                slow=slow.next;
-                fast=fast.next;
-           
-              }
-              return slow;
-            }
-        }
-        return null;
+    HashSet<ListNode> set=new HashSet<>();
+    ListNode temp=head;
+      while(temp!=null){
+         if(set.contains(temp))
+         return temp;
+         else{
+            set.add(temp);
+            temp=temp.next;
+         }
+      }
+      return null;
     }
 }
 ```
