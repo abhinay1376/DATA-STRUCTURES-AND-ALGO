@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Medium  
 **Problem Link:** [View Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
-**Submission Date:** 2 Sept 2026  
+**Submission Date:** 3 Sept 2026  
 **Language:** java  
 
 ## Approach
@@ -18,51 +18,22 @@
 ## Revision Notes
 
 ### Intuition
-Using your two-pass approach:
-
-Traverse the list and find its length count.
-
-If count == n, the node to remove is the head:
-
-return head.next;
-Otherwise, find the node before the target.
-
-Delete the target using:
-
-temp.next = temp.next.next;
-🔑 Formula
-Target position from beginning = count - n + 1
-Previous node position         = count - n
+fast = n+1 steps ahead
+        ↓
+move both together
+        ↓
+fast reaches null
+        ↓
+slow is BEFORE the node to delete
+        ↓
+slow.next = slow.next.next
 
 ### Lines / Logic To Be Careful With
-if (count == n) {
-            return head.next;
-        }
-        int c = 1;
-        temp = head;
-        while (c<count-n) {
-            
-            c++;
-
-            temp = temp.next;
-        }
-        temp.next=temp.next.next;
+slow.next=slow.next.next;
+        return dummy.next;
 
 ### Edge Cases Handled
-Forgot to reset temp = head after the first traversal.
-Changed temp instead of changing head when removing the first node.
-Changed head but didn't return, so the remaining code executed.
-Started c incorrectly, causing count - n = 0 cases to fail.
-
-Confused:
-
-temp.next.next == null
-
-with:
-
-temp.next == null
-
-The first is safe; the second can cause NullPointerException.
+Whenever you use a dummy node in linked-list problems, the final head is usually dummy.next, not the original head.
 
 ## Solution
 
@@ -79,29 +50,21 @@ The first is safe; the second can cause NullPointerException.
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode temp = head;
-        if (n == 1 && head.next == null)
-            return null;
-
-        int count = 0;
-        while (temp != null) {
-            count++;
-            temp = temp.next;
+        ListNode dummy=new ListNode(0);
+        dummy.next=head;
+        ListNode slow=dummy;
+        ListNode fast=dummy;
+        for(int i=0;i<n+1;i++){
+            fast=fast.next;
         }
-        if (count == n) {
-            return head.next;
+        while(fast!=null){
+            slow=slow.next;
+            fast=fast.next;
         }
-        int c = 1;
-        temp = head;
-        while (c<count-n) {
-            
-            c++;
+        slow.next=slow.next.next;
+        return dummy.next;
 
-            temp = temp.next;
-        }
-        temp.next=temp.next.next;
 
-        return head;
     }
 }
 ```
