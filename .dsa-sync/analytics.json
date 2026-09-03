@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-03T12:26:24.979Z",
+  "lastSync": "2026-09-03T12:46:39.262Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1178,6 +1178,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0160_Intersection_Of_Two_Linked_Lists",
       "timestamp": 1788438384969
+    },
+    {
+      "platform": "gfg",
+      "title": "Sort a linked list of 0s, 1s and 2s",
+      "slug": "given-a-linked-list-of-0s-1s-and-2s-sort-it",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Sort_A_Linked_List_Of_0s_1s_And_2s",
+      "timestamp": 1788439599237
     }
   ]
 }
