@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-03T12:46:39.262Z",
+  "lastSync": "2026-09-04T17:38:01.480Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1186,6 +1186,15 @@
       "language": "java",
       "path": "GeeksforGeeks_Problems/Sort_A_Linked_List_Of_0s_1s_And_2s",
       "timestamp": 1788439599237
+    },
+    {
+      "platform": "leetcode",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/3903_Smallest_Stable_Index_I",
+      "timestamp": 1788543481473
     }
   ]
 }
