@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-04T17:38:01.480Z",
+  "lastSync": "2026-09-05T16:30:51.668Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1195,6 +1195,15 @@
       "language": "java",
       "path": "Leetcode_Problems/3903_Smallest_Stable_Index_I",
       "timestamp": 1788543481473
+    },
+    {
+      "platform": "leetcode",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0020_Valid_Parentheses",
+      "timestamp": 1788625851656
     }
   ]
 }
