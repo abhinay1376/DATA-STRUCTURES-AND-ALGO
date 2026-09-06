@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-05T16:30:51.668Z",
+  "lastSync": "2026-09-06T14:42:38.673Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1204,6 +1204,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0020_Valid_Parentheses",
       "timestamp": 1788625851656
+    },
+    {
+      "platform": "leetcode",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/1518_Water_Bottles",
+      "timestamp": 1788705758666
     }
   ]
 }
