@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-07T12:24:55.562Z",
+  "lastSync": "2026-09-07T12:33:50.409Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1222,6 +1222,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1929_Concatenation_Of_Array",
       "timestamp": 1788783895554
+    },
+    {
+      "platform": "leetcode",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0217_Contains_Duplicate",
+      "timestamp": 1788784430399
     }
   ]
 }
