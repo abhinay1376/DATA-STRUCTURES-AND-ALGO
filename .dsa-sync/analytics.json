@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-06T14:42:38.673Z",
+  "lastSync": "2026-09-07T12:24:55.562Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1213,6 +1213,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1518_Water_Bottles",
       "timestamp": 1788705758666
+    },
+    {
+      "platform": "leetcode",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/1929_Concatenation_Of_Array",
+      "timestamp": 1788783895554
     }
   ]
 }
