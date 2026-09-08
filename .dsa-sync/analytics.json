@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-07T12:51:45.828Z",
+  "lastSync": "2026-09-08T10:53:11.063Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1240,6 +1240,14 @@
       "language": "java",
       "path": "Leetcode_Problems/0242_Valid_Anagram",
       "timestamp": 1788785505820
+    },
+    {
+      "platform": "gfg",
+      "title": "Implement Stack using Array",
+      "slug": "implement-stack-using-array",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/Implement_Stack_Using_Array",
+      "timestamp": 1788864791046
     }
   ]
 }
