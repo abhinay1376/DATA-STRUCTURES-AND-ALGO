@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-08T11:05:09.411Z",
+  "lastSync": "2026-09-09T11:40:47.041Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1257,6 +1257,15 @@
       "language": "java",
       "path": "Leetcode_Problems/3870_Count_Commas_In_Range",
       "timestamp": 1788865509380
+    },
+    {
+      "platform": "leetcode",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/0682_Baseball_Game",
+      "timestamp": 1788954047032
     }
   ]
 }
