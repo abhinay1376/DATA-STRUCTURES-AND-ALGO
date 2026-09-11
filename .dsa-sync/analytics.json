@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-10T12:42:35.339Z",
+  "lastSync": "2026-09-11T17:11:44.913Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1284,6 +1284,15 @@
       "language": "java",
       "path": "Leetcode_Problems/0875_Find_Numbers_With_Even_Number_Of_Digits",
       "timestamp": 1789044155322
+    },
+    {
+      "platform": "leetcode",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/1822_Sign_Of_The_Product_Of_An_Array",
+      "timestamp": 1789146704898
     }
   ]
 }
