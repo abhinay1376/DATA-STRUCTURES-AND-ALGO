@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-11T17:11:44.913Z",
+  "lastSync": "2026-09-12T15:24:02.492Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1293,6 +1293,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1822_Sign_Of_The_Product_Of_An_Array",
       "timestamp": 1789146704898
+    },
+    {
+      "platform": "leetcode",
+      "title": "Mirror Distance of an Integer",
+      "slug": "mirror-distance-of-an-integer",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/3783_Mirror_Distance_Of_An_Integer",
+      "timestamp": 1789226642475
     }
   ]
 }
