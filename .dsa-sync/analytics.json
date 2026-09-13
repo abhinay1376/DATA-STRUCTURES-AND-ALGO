@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-12T15:24:02.492Z",
+  "lastSync": "2026-09-13T12:56:59.015Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1302,6 +1302,15 @@
       "language": "java",
       "path": "Leetcode_Problems/3783_Mirror_Distance_Of_An_Integer",
       "timestamp": 1789226642475
+    },
+    {
+      "platform": "leetcode",
+      "title": "Minimum Absolute Distance Between Mirror Pairs",
+      "slug": "minimum-absolute-distance-between-mirror-pairs",
+      "difficulty": "Medium",
+      "language": "java",
+      "path": "Leetcode_Problems/0835_Minimum_Absolute_Distance_Between_Mirror_Pairs",
+      "timestamp": 1789304218997
     }
   ]
 }
