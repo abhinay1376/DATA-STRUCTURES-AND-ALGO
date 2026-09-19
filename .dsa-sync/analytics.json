@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-18T16:33:25.475Z",
+  "lastSync": "2026-09-19T16:25:08.816Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1356,6 +1356,14 @@
       "language": "java",
       "path": "Leetcode_Problems/1520_Furthest_Point_From_Origin",
       "timestamp": 1789749205464
+    },
+    {
+      "platform": "gfg",
+      "title": "BFS of Graph",
+      "slug": "bfs-traversal-of-graph",
+      "language": "java",
+      "path": "GeeksforGeeks_Problems/BFS_Of_Graph",
+      "timestamp": 1789835108806
     }
   ]
 }
