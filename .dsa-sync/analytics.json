@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastSync": "2026-09-21T12:30:01.900Z",
+  "lastSync": "2026-09-23T09:53:10.581Z",
   "entries": [
     {
       "platform": "leetcode",
@@ -1382,6 +1382,15 @@
       "language": "java",
       "path": "Leetcode_Problems/1688_Count_Of_Matches_In_Tournament",
       "timestamp": 1789993801890
+    },
+    {
+      "platform": "leetcode",
+      "title": "K Items With the Maximum Sum",
+      "slug": "k-items-with-the-maximum-sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "path": "Leetcode_Problems/2600_K_Items_With_The_Maximum_Sum",
+      "timestamp": 1790157190571
     }
   ]
 }
