@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/pass-the-pillow/)  
-**Submission Date:** 21 Sept 2026  
+**Submission Date:** 24 Sept 2026  
 **Language:** java  
 
 ## Approach
@@ -12,38 +12,40 @@
 
 ## Time & Space Complexity
 
-**Time Complexity:** O(time)  
+**Time Complexity:** O(1)  
 **Space Complexity:** O(1)  
 
 ## Revision Notes
 
 ### Intuition
-by following the givien process in the question
+by using the number of turns and direction
 
 ### Lines / Logic To Be Careful With
-if(ans%n==0){
-            while(ans!=1&&time!=0){
+int turns=time/(n-1);
+       int rem=time%(n-1);
+       if(turns%2==0)
+       return rem+1;
+       return n-rem;
 
 ### Edge Cases Handled
-alllllllllllllllllllllllllllll
+int turns=time/(n-1);
+       int rem=time%(n-1);
+       if(turns%2==0)
+       return rem+1;
+       return n-rem;
 
 ## Solution
 
 ```java
 class Solution {
     public int passThePillow(int n, int time) {
-             int ans=1;
-     while(time!=0){
-        ans++;
-        time--;
-        if(ans%n==0){
-            while(ans!=1&&time!=0){
-               ans--;
-               time--;
-            }
-        }
-     }
-     return ans;
+       int turns=time/(n-1);
+       int rem=time%(n-1);
+       if(turns%2==0)
+       return rem+1;
+       return n-rem;
+
+       
     }
 }
 ```
