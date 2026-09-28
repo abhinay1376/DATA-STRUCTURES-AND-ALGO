@@ -3,7 +3,7 @@
 **Platform:** LeetCode  
 **Difficulty:** Easy  
 **Problem Link:** [View Problem](https://leetcode.com/problems/happy-number/)  
-**Submission Date:** 19 Aug 2026  
+**Submission Date:** 28 Sept 2026  
 **Language:** java  
 
 ## Approach
@@ -12,55 +12,59 @@
 
 ## Time & Space Complexity
 
-**Time Complexity:** O(log₁₀ n) (One iteration per digit.)  
-**Space Complexity:** O(log n)  
+**Time Complexity:** O(logn)  
+**Space Complexity:** O(1)  
 
 ## Revision Notes
 
 ### Intuition
-A happy number repeatedly replaces the number with the sum of squares of its digits.
-
-If we reach 1 → Happy Number → true
-If a number repeats → we are stuck in a cycle → false
-
-We use a HashSet to store previously seen numbers and detect a cycle.
+slow moves 1 step, fast moves 2 steps.
+Happy number → sequence eventually reaches 1.
+Unhappy number → sequence enters a cycle, so slow == fast.
+Since the while stops when slow reaches 1, meeting before that means cycle → false.
 
 ### Lines / Logic To Be Careful With
-O(log n × k)
-
-More simply for interview purposes: O(log n) per transformation, and the sequence quickly reaches a small bounded range.
+while(sum(slow)!=1){
+       
+            slow=sum(slow);
+            fast=sum(sum(fast));
+            if(slow==fast){
+            return false;
+        }
 
 ### Edge Cases Handled
-alllllllllll;;;;;;;;;;;;;;;;;;;;
+alllllllllllllllllllll
 
 ## Solution
 
 ```java
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> map=new HashSet<>();
-        int sum1=sum(n);
-        while(sum1!=1){
-            if(map.contains(sum1))
+        int slow=n;
+        int fast=n;
+        while(sum(slow)!=1){
+       
+            slow=sum(slow);
+            fast=sum(sum(fast));
+            if(slow==fast&&sum(slow)!=1){
             return false;
-                        map.add(sum1);
-
-            sum1=sum(sum1);
+        }
+            if(slow==fast&&sum(slow)==1){
+            return true;
+            }
 
         }
         return true;
-        
-      
-    }
-    static int sum(int n){
-        int sum=0;
-          while(n!=0){
-            int digit=n%10;
 
-            sum+=digit*digit;
+    }
+      static int sum(int n){
+            int s=0;
+        while(n!=0){
+            int digit=n%10;
+            s+=digit*digit;
             n/=10;
         }
-        return sum;
+        return s;
     }
 }
 ```
